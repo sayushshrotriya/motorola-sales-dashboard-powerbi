@@ -9,7 +9,6 @@ This project demonstrates data cleaning, data modeling, DAX calculations, and da
 
 # 📸 Dashboard Preview
 
-> Add your dashboard screenshot here.
 
 ![Dashboard](https://github.com/sayushshrotriya/motorola-sales-dashboard-powerbi/blob/main/Dashboard.png)
 
