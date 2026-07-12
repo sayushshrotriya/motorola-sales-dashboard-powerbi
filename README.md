@@ -353,11 +353,9 @@ Through this project, I learned:
 
 ```
 Motorola-Sales-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset.xlsx
-├── dashboard.png
-└── README.md
+│── Dashboard.png
+│── Mobile_sales_data.pbix
+│── README.md
 ```
 
 ---
